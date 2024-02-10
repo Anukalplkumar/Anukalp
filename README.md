@@ -1,5 +1,26 @@
-﻿# Blog_management_Website
+# Blog-Management-Web-Bharat-Intern
 
-This is the blog management website which is the first task of the bharat internship.
+This is the first task of Bharat Intern, which I have done.
 
-Link: https://blog-management-gpzb.onrender.com/
+### Getting Started
+- Clone the repository
+```
+git clone https://github.com/Riddhi572/Blog-Management-Web-Bharat-Intern.git
+```
+
+- Navigate to the folder
+```
+cd Blog-Management-Web-Bharat-Intern
+```
+
+- Install the dependencies
+```
+npm install
+```
+
+- Run the project
+```
+npm start
+```
+
+Hurray, you have accessed the blog management website successfully.
